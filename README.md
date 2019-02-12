@@ -1,6 +1,6 @@
-# vw
+# vue-vw-layout
 
-> A Vue.js project
+> A Vue.js project, vue config vw layout.
 
 ## Build Setup
 
